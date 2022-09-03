@@ -1,2 +1,1 @@
-# html-dev2
-htmlödev2
+# Kodluyoruz Front-end Ödev2 İçin Yapılmıştır.
